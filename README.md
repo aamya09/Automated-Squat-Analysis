@@ -11,7 +11,7 @@ Libraries: OpenCV, Mediapipe(for pose estimation), TensorFlow(for machine learni
 Tools: Jupyter Notebook 
 # Installation
 Step1- Clone the repository:
-git clone https://github.com/your-repo/automated-squat-analysis.git  
+git clone  
 Step2- Navigate to the project directory:
 cd automated-squat-analysis  
 Step3- Install dependencies:
