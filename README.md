@@ -12,6 +12,7 @@ Tools: Jupyter Notebook
 # Installation
 Step1- Clone the repository:
 git clone https://github.com/aamya09/Automated-Squat-Analysis.git 
+
 Step2- Navigate to the project directory:
 cd automated-squat-analysis  
 Step3- Install dependencies:
